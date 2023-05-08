@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vite": "^4.3.5",
+    "vite-plugin-ruby": "^3.2.2"
+  },
+  "dependencies": {
+    "@hotwired/turbo": "^7.3.0",
+    "@rails/activestorage": "^7.0.4-3",
+    "react-dom": "^18.2.0"
+  }
+}
